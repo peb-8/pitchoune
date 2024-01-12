@@ -1,0 +1,2 @@
+prettytable == 0.2.12
+typeguard == 4.1.5
